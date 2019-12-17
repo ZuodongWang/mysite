@@ -6,7 +6,7 @@
 
 	//typed activate
     $('.header-inner h6').typed({
-        strings: ["未定向CS本科生", "希望成为个厉害的设计者", "特来国海求份实习经历"],
+        strings: ["A Computer Science undergrad", "On my way to a pro developer", "Now looking for a job"],
         loop: true,
         startDelay: 1000,
         backDelay: 1000,
